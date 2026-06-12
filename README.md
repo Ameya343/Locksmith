@@ -177,4 +177,11 @@ locksmith/
 
 ## License
 
-MIT — do whatever you like, just don't blame me if you forget your secret key.
+[`MIT`](https://github.com/Ameya343/Locksmith/blob/main/LICENSE) — do whatever you like, just don't blame me if you forget your secret key.
+
+---
+
+## Author
+
+### [Ameya343](https://github.com/Ameya343)
+
