@@ -169,7 +169,9 @@ aes : <base64url_salt> : <base64url_iv> : <base64url_ciphertext>
 
 ```
 locksmith/
-├── locksmith.py   # Main script — all logic in one file
+├── src/
+|    ├── Locksmith.py # Main script — all logic in one file
+|   
 └── README.md
 ```
 
