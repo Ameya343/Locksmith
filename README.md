@@ -13,8 +13,6 @@
     Password Strength · Generate
        Encrypt  ·  Decrypt  ·  AES-256-GCM
     
-    
-    
 ```
 
 ---
